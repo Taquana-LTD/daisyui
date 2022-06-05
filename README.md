@@ -12,14 +12,6 @@
 
 [![][banner-url]][docs-url]
 
-# daisyUI 2.0
-
-[![][build]][build-url] [![][npm]][npm-url] [![][number-of-components]][docs-url] [![][license]][license-url]  
-[![][dl]][npm-url] [![][stars]][gh-url] [![][commit]][gh-url]
-
-- [Official website →](https://daisyui.com/)
-- [See all components →](https://daisyui.com/components/)
-- [How to use →](https://daisyui.com/docs/install/)
 
 
 ## 🌼 Features
